@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-## [See live](https://admin-dashboard.vercel.app/)
+## [See live](https://admin-dashboard-psi-eight.vercel.app/)
 
 To get started:
 

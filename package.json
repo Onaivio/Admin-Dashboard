@@ -19,7 +19,7 @@
     "admin",
     "template"
   ],
-  "author": "Okomayin <onaivio220@gmail.com> (https://github.com/onaivio)",
+  "author": "Okomayin <onaivio220@gmail.com> (https://github.com/onaivio) (_https://admin-dashboard-psi-eight.vercel.app/)",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
